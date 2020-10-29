@@ -1,6 +1,6 @@
 # online shopping system advanced
 
-online shopping system with both admin and user layouts IWP project.
+online shopping system with both admin and user layouts for my IWP project.
 
 ## Installation
 
