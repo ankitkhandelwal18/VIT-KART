@@ -32,4 +32,4 @@ online shopping system with both admin and user layouts IWP project.
 
 11.first register and then login
 
-12. admin login details  Email=admin@gmail.com and Password=ankit
+12. admin login details  Email=admin@gmail.com and Password=ankit In Database Password is Hashed in MD5
