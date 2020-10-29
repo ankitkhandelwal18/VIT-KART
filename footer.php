@@ -8,10 +8,9 @@
 						<div class="col-md-3 col-xs-6">
 							<div class="footer">
 								<h3 class="footer-title">About Us</h3>
-								<p>This is a HCI project under Prof.Swarnalatha P</p>
 								<ol class="footer-links">
 									<li><a href="#"><i class="fa fa-map-marker"></i>Vit,Vellore</a></li>
-									<li><a href="#"><i class="fa fa-phone"></i>+91-8073372251 or 7033664878</a></li>
+									<li><a href="#"><i class="fa fa-phone"></i>+91-7033664878</a></li>
 									<li><a href="#"><i class="fa fa-envelope-o"></i>Super_market@gmail.com</a></li>
 								</ol>
 							</div>
@@ -27,7 +26,7 @@
 							</ul>
 							<span class="copyright">
 								<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-								Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Project is submitted by <a href="#" target="_blank">Ankit Khandelwal and Akash Yadav under the Precious Guidence of our under Prof.Swarnalatha P</a>
+								Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Project is submitted by <a href="#" target="_blank">Ankit Khandelwal</a>
 							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 							</span>
 						</div>
