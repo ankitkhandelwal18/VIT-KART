@@ -1,6 +1,6 @@
 # online shopping system advanced
 
-online shopping system is a IWP with both admin and user layouts.
+online shopping system with both admin and user layouts IWP project.
 
 ## Installation
 
@@ -28,7 +28,7 @@ online shopping system is a IWP with both admin and user layouts.
 
 9. browse the file in directory [online-shopping-system-advanced/database/onlineshop.sql].
 
-10. open any browser and type http://localhost/online-shopping-system-advanced-master.
+10. open any browser and type http://localhost/VIT-KART-master.
 
 11.first register and then login
 
