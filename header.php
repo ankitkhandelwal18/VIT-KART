@@ -179,7 +179,7 @@ session_start();
 							<div class="header-logo">
 								<a href="#" class="logo">
 								<font style="font-style:normal; font-size: 25px;color: aliceblue;font-family: serif">
-                                        NESTO HYPERMARKET
+                                        VIT-KART
                                     </font>
 									
 								</a>
