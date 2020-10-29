@@ -123,9 +123,7 @@ session_start();
 				<div class="container">
 					<ul class="header-links pull-left">
 						<li><a href="#"><i class="fa fa-phone"></i> +91-7033664878</a></li>
-						<li><a href="#"><i class="fa fa-phone"></i> +91-8073372251</a></li>
 						<li><a href="#"><i class="fa fa-envelope-o"></i> ankitkh75@gmail.com</a></li>
-						<li><a href="#"><i class="fa fa-envelope-o"></i>akash.yadav21@gmail.com</a></li>
 						<li><a href="#"><i class="fa fa-map-marker"></i>Vellore</a></li>
 					</ul>
 					<ul class="header-links pull-right">
