@@ -102,5 +102,5 @@ mysqli_close($con);
 	</div>
 </div></div></div>
 <?php include("include/js.php"); ?>
-</body>
+</body
 </html>
